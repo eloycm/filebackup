@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteBackup", "SiteBackup.csproj", "{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Aod66DMS|Any CPU = Aod66DMS|Any CPU
+		CM|Any CPU = CM|Any CPU
+		CMDev|Any CPU = CMDev|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SC7Test|Any CPU = SC7Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Aod66DMS|Any CPU.ActiveCfg = Aod66DMS|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Aod66DMS|Any CPU.Build.0 = Aod66DMS|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.CM|Any CPU.ActiveCfg = CM|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.CM|Any CPU.Build.0 = CM|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.CMDev|Any CPU.ActiveCfg = CMDev|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.CMDev|Any CPU.Build.0 = CMDev|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.SC7Test|Any CPU.ActiveCfg = SC7Test|Any CPU
+		{55EDDD98-CB66-4791-B4F6-B5C172F6F3D2}.SC7Test|Any CPU.Build.0 = SC7Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
